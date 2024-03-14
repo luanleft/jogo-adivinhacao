@@ -1,4 +1,4 @@
-#**Jogo de Adivinhação**
+**Jogo de Adivinhação**
 ### Qual é o objetivo?
 
 Seu objetivo é acertar o número secreto com o menor número de tentativas possível, acumulando pontos ao longo do processo.
